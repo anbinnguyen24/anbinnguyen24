@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Nguyen Van An from Vietnam <br><br>- 🔭 I’m a College Student at SaiGon University (SGU)<br>- 📚 I'm currently learning about Data Analyst<br>- ⚡ In my free time I read book and learn about MLOps</p>
+<p align="left">I'm Nguyen Van An from Vietnam <br><br>- 🔭 I’m a College Student at SaiGon University (SGU)<br>- 📚 I'm currently learning Data Science<br>- ⚡ In my free time I read book and learn about MLOps</p>
 
 ###
 
