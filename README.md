@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Nguyen Van An from Vietnam <br><br>- 🔭 I’m a College Student at SaiGon University (SGU)<br>- 📚 I'm currently learning Data Science<br>
+<p align="left">I'm Nguyen Van An from Vietnam <br><br>- 🔭 I’m a Student at SaiGon University (SGU)<br>- 📚 I'm currently learning Data Science<br>
 
 ###
 
@@ -29,4 +29,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anbinnguyen24&show_icons=true&theme=dark" height="220" alt="streak graph"  />
 </div>
+
+###
+
 
