@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Nguyen Van An from Vietnam <br><br>- 🔭 I’m a Student at SaiGon University (SGU)<br>- 📚 I'm currently learning Data Science<br>
+<p align="left">I'm Nguyen Van An from Vietnam <br><br>- 🔭 I’m a Student at SaiGon University (SGU)<br>- 📚 I'm currently learning Computer Science<br>
 
 ###
 
